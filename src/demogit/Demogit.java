@@ -16,6 +16,10 @@ public class Demogit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("OK");
+        
+        System.out.println("bye");
     }
     
-}
+    }
